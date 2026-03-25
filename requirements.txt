@@ -1,0 +1,5 @@
+scapy
+psutil
+rich
+flask
+manuf

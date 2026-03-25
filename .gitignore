@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local databases / runtime artifacts
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Kanshi outputs
+scans/
+*.json
+*.csv
+*.html
+
+# Logs
+*.log
